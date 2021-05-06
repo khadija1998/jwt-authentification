@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hind201/Authentification-JWT.git"
+    "url": "https://github.com/khadija1998/jwt-authentification.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hind201/Authentification-JWT/issues"
+    "url": "https://github.com/khadija1998/jwt-authentification"
   },
-  "homepage": "https://github.com/hind201/Authentification-JWT#readme",
+  "homepage": "https://github.com/khadija1998/jwt-authentification",
   "dependencies": {
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
